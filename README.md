@@ -5,3 +5,4 @@ First, install node.js using `apt install nodejs`. Verify that installation is o
 Once installed, use `npm install` to install all needed dependencies. 
 
 Start the frontend using `npm start`. 
+
