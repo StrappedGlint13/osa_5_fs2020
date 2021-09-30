@@ -6,3 +6,7 @@ Once installed, use `npm install` to install all needed dependencies.
 
 Start the frontend using `npm start`. 
 
+# Heroku
+
+The container of the app is running at [heroku](https://blogappbrax.herokuapp.com/)
+
